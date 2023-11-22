@@ -16,3 +16,8 @@ You can either provide the link to all the series or to a specific series.
 
 [https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-apprentis-full/toc.json](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-apprentis-full/toc.json)
 
+Links to series
+
+* [solvent](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-apprentis-full/toc_10_solvent.json)
+* [simple](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-apprentis-full/toc_20_simple.json)
+* [medium](https://www.nmrium.org/teaching#?toc=https://nmrdata.github.io/nmr-dataset-apprentis-full/toc_30_medium.json)
